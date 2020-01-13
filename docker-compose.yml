@@ -1,6 +1,7 @@
 version: "2"
 services:
   express:
+    volumes: ["apps"]
     restart: "always"
     container_name: "express"
     build:
