@@ -1,0 +1,10 @@
+version: "2"
+services:
+  express:
+    restart: "always"
+    container_name: "express"
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports: 
+      - "3004:3004"
