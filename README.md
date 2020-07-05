@@ -1,5 +1,5 @@
 # Express-Docker-Template
-A template we can use to create an Express app with that has a Dockerfile and a docker-compose.yml file so we can just spin up a image and container real quick.
+A Docker/Express template. To be able to setup a quick Express project with a Dockerfile and docker-compose.yml all filled out.
 
 ## Remember
 #### Things you might want to change, when using template multiple times in the same dev environment
