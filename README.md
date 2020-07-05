@@ -4,7 +4,7 @@ A Docker/Express template. To be able to setup a quick Express project with a Do
 ## Remember
 #### Things you might want to change, when using template multiple times in the same dev environment
 ##### `package.json`
-1.`name`
+1. `name`
 1. `description`
 ##### `docker-compose.yml`
 1. `ports`
